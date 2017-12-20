@@ -1,4 +1,4 @@
-//******** Documentation Section ************
+//******** Documentation Section ***********
 //Project name : Smart Dustbin
 //Funtion : Automatically opens the lid of dustbin when you go near it.
 // Author : Harshit Srivastava
